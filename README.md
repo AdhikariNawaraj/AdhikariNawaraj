@@ -1,4 +1,4 @@
- Hi, I’m @AdhikariNawaraj. I am an accomplished finance and compliance professional with hands-on experience in the financial services industry.
+ Hi, I’m Nawaraj Adhikari. I am an accomplished finance and compliance professional with hands-on experience in the financial services industry.
  I’m interested in exploring opportunities in investment management, FinTech, compliance, and research-oriented sectors. 
  I am passionate about leveraging data science techniques to drive effective decision-making and business strategy.
  I’m currently learning advanced analytics techniques and their applications in finance, including using Python, R, and SAS for data science and machine learning projects.
